@@ -1,5 +1,5 @@
 
-#  Open Source Training Slides
+#  oss-basic-training: Open Source Training Slides
 ##  About
 오픈소스 라이선스에 대한 개념, 오픈소스 컴플라이언스 절차, 코드 작성 시 주의해야 할 점 등에 대해 누구나 개발자 대상으로 교육을 할 수 있도록 강의 교안(PPT)과 강의 스크립트(DOC)를 제작하여 공개하였습니다. 교육 자료에 대한 수정과 보완은 github에서 공동으로 수행하여 누구나 참여할 수 있습니다.
 <p align="center">
