@@ -54,3 +54,5 @@ https://creativecommons.org/licenses/by-nc/4.0/
 ##  About OpenChain Korea Work Group
 [![](./image/logo_kwg.png)](https://openchain-project.github.io/OpenChain-KWG/)
 
+* OSS Basic Training : https://openchain-project.github.io/OpenChain-KWG/resource/basic-training/
+
