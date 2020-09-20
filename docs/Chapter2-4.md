@@ -28,7 +28,7 @@ Chapter 2. 올바른 오픈소스 코드의 사용
 <br>
 
 <span style="color: green">회사의 고지문 작성 및 게시 절차를 삽입하세요.</span>
-<br>
+<br><br>
 
 ###  2. 고지문의 구성
 *  ‘오픈소스를 사용함’을 명시
@@ -40,7 +40,7 @@ Chapter 2. 올바른 오픈소스 코드의 사용
 <br>
 
 <span style="color: green">회사의 고지문 고지 방법을 삽입하세요.</span>
-<br>
+<br><br>
 
 ###  4. 여러 회사들의 고지 사례
 *  카카오톡
