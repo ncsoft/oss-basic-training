@@ -18,7 +18,7 @@
 
 |Name|Company|Email|
 |:--:|:--:|:--:|
-|You|Your Company|Your email address|
+|Haksung Jang|SK Telecom|haksung@sk.com|
 |&nbsp;| | |
 |&nbsp;| | |
 <br>
@@ -57,9 +57,9 @@ https://creativecommons.org/licenses/by-nc/4.0/
 * OSS Basic Training : https://openchain-project.github.io/OpenChain-KWG/resource/basic-training/
 <br>
 
-##  목차
-아래 md 파일은 기여를 용이하게 할 수 있도록 ppt 파일의 텍스트를 md 문서로 만든 것입니다.
-기여를 하실 분들은 아래 md 문서를 활용하시고, 교육 자료를 직접 확인하실 분들은 source 폴더에 있는 ppt 파일을 참고하세요.
+##  기여를 위한 문서
+아래 md 파일은 기여를 용이하게 할 수 있도록 ppt 파일에 포함된 텍스트를 md 문서로 만든 것입니다.
+기여를 하실 분들은 아래 md 문서를 활용하시고, 교육 자료를 직접 사용하실 분들은 source 폴더에 있는 ppt 파일을 활용하세요.
 *  [Intro](https://github.com/ncsoft/oss-basic-training/blob/master/docs/Chapter0-Intro.md)
 *  Chapter 1. 저작권과 오픈소스 라이선스
    *  [Chapter 1-1. 오픈소스의 개념](https://github.com/ncsoft/oss-basic-training/blob/master/docs/Chapter1-1.md)
@@ -78,7 +78,7 @@ https://creativecommons.org/licenses/by-nc/4.0/
    *  [Summary](https://github.com/ncsoft/oss-basic-training/blob/master/docs/Chapter2-6.md)
   <br>
 
-  ## 강의용 PPT 자료
+  ## 강의를 위한 문서
   *  [강의용 교안(PPT)](https://github.com/ncsoft/oss-basic-training/blob/master/source/oss-training-materials.pptx)
   *  [강의용 스크립트(DOC)](https://github.com/ncsoft/oss-basic-training/blob/master/source/oss-training-scripts.docx)
 <br>
