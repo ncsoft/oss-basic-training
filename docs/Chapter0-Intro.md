@@ -3,7 +3,7 @@ Chapter 0. Intro
 -->
 
 ##  알고 쓰자, 바르게 쓰자, 오픈소스
-### Copyright © NCSOFT Corporation. All Rights Reserved.  |  CC BY-NC 4.0 
+### Copyright © NCSOFT Corporation. All Rights Reserved.  |  CC BY 4.0 
 <span style="color: blue">본 자료는 법적 효력이 없으므로 법적 분쟁 시 법률적 해석 또는 근거로 활용할 수 없습니다.</span>
 <br>
 

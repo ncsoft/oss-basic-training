@@ -35,8 +35,8 @@
 <br><br>
 
 ##  License
-CC BY-NC 4.0으로 공개합니다.<br>
-https://creativecommons.org/licenses/by-nc/4.0/
+CC BY 4.0으로 공개합니다.<br>
+https://creativecommons.org/licenses/by/4.0/
 <br><br>
 
 ##  Remarks
