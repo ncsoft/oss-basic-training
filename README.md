@@ -24,7 +24,7 @@
 <br>
 
 ##  Update Plan
-* Dependency 분석 방법: ~21년 2월
+* Dependency 분석 방법: ~21년 8월
 * 오픈소스 기여: ~21년 8월
 * 오픈소스 공개: ~22년 2월
 <br>
@@ -54,7 +54,7 @@ https://creativecommons.org/licenses/by/4.0/
 ##  About OpenChain Korea Work Group
 [![](./image/logo_kwg.png)](https://openchain-project.github.io/OpenChain-KWG/)
 
-* OSS Basic Training : https://openchain-project.github.io/OpenChain-KWG/resource/basic-training/
+* OSS Basic Training : https://openchain-project.github.io/OpenChain-KWG/blog/2020/11/23/oss-basic-training-slide/
 <br>
 
 ##  기여를 위한 문서
