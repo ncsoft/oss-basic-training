@@ -6,6 +6,7 @@
 |:--:|:--:|:--:|
 |PeterHanJiho|NCSOFT|yulica37@ncsoft.com|
 |DasomHan|NCSOFT|dasom12@ncsoft.com|
+|Dekim|NCSOFT|dekim@ncsoft.com|
 <br>
   
 ##   Contributor(s)
