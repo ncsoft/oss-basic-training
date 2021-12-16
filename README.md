@@ -12,6 +12,7 @@
 |:--:|:--:|:--:|
 |PeterHanJiho|NCSOFT|yulica37@ncsoft.com|
 |DasomHan|NCSOFT|dasom12@ncsoft.com|
+|DaeunKim|NCSOFT|dekim@ncsoft.com|
 <br>
 
 ##  Contributor(s)
@@ -21,12 +22,6 @@
 |Haksung Jang|SK Telecom|haksung@sk.com|
 |&nbsp;| | |
 |&nbsp;| | |
-<br>
-
-##  Update Plan
-* Dependency 분석 방법: ~21년 8월
-* 오픈소스 기여: ~21년 8월
-* 오픈소스 공개: ~22년 2월
 <br>
 
 ##  Font
@@ -49,6 +44,7 @@ https://creativecommons.org/licenses/by/4.0/
 * [오픈소스를 사용하고, 준비하는 개발자를 위한 가이드 - Kakao](https://www.slideshare.net/ifkakao/ss-113145564)
 * [공개SW 라이선스 가이드 – 정보통신산업진흥원](https://www.oss.kr/oss_license_qna/show/b01c36a4-d50a-47cb-af60-78b94b93378b)
 * [기업 공개SW 거버넌스 Openchain 2.0 해설 - 정보통신산업진흥원](https://www.oss.kr/oss_guide/show/7050bff0-d06b-43f0-99a6-9975afcd486f?page=2)
+* [오픈소스 라이선스 변화의 흐름 - KaKao](https://tech.kakao.com/2021/09/08/opensource-license/)
 <br>
 
 ##  About OpenChain Korea Work Group
@@ -68,7 +64,8 @@ https://creativecommons.org/licenses/by/4.0/
    *  [Chapter 1-4. 주요 오픈소스 라이선스](https://github.com/ncsoft/oss-basic-training/blob/master/docs/Chapter1-4.md)
    *  [Chapter 1-5. Creative Commons 라이선스](https://github.com/ncsoft/oss-basic-training/blob/master/docs/Chapter1-5.md)
    *  [Chapter 1-6. 폰트 라이선스](https://github.com/ncsoft/oss-basic-training/blob/master/docs/Chapter1-6.md)
-   *  [Summary](https://github.com/ncsoft/oss-basic-training/blob/master/docs/Chapter1-7.md)
+   *  [Chapter 1-7. 오픈소스 라이선스의 변화](https://github.com/ncsoft/oss-basic-training/blob/master/docs/Chapter1-7.md)
+   *  [Summary](https://github.com/ncsoft/oss-basic-training/blob/master/docs/Chapter1-8.md)
 *  Chapter 2. 올바른 오픈소스 코드의 사용
    *  [Chapter 2-1. 라이선스 분류표](https://github.com/ncsoft/oss-basic-training/blob/master/docs/Chapter2-1.md)
    *  [Chapter 2-2. 라이선스 확인 방법](https://github.com/ncsoft/oss-basic-training/blob/master/docs/Chapter2-2.md)
