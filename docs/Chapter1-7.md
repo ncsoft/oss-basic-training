@@ -3,21 +3,20 @@ Chapter 1. 저작권과 오픈소스 라이선스
 7. Summary
 -->
 
-##  Summary
-####  오픈소스는 소스코드가 제공되므로 <span style="color: blue">코드의 사용, 복제, 배포, 수정이 가능</span> 하지만, 상용 소프트웨어는 대부분 실행파일(Binary)만 제공되며 바이너리 복제, 배포, 수정이 불가합니다.
+##  오픈소스 라이선스의 변화
+####  2020년대에 들어서 Shared Source Software 라는 개념이 등장했습니다. <br>
+
+####  이는 클라우드 업체들이 오픈소스를 이용해서 SaaS 형태로 서비스를 제공하고 많은 수익을 가져가는 대신, 오픈소스 커뮤니티에는 기여하지 않는 것에 대한 비판에서 출발한 개념입니다. 
 <br>
 
-####  오픈소스와 상용 소프트웨어 모두 소프트웨어에 관한 지적재산권으로 보호되며 위반 시 지적재산권법에 의해 처벌될 수 있습니다.
+####  그래서 서비스 인프라에서 많이 사용되는 오픈소스들의 라이선스가 Shared Source Software 형태의 라이선스로 변경되고 있습니다. 대표적인 예로, 최근에 시계열 데이터 대시보드 기능을 제공하는 Grafana가 Apache License 2.0에서 GNU Affero General Public License로 변경되었습니다. 
 <br>
 
-####  오픈소스 라이선스는 <span style="color: blue">저작권자의 독점 사용 권리에 대해 저작권자와 사용자간의 이용방법 및 조건 범위를 명시해 놓은 사용 허가권</span>입니다.
+####  Shared Source Software 라이선스는 소스코드 사용은 가능하지만 상용 목적으로는 사용을 제한하는 것입니다. 주요 라이선스로 <span style="color: blue">Server Side Public License, Business Source License, Elastic License</span>가 있습니다.
 <br>
 
-####  오픈소스 라이선스는 소스코드 공개의무 강도에 따라 크게 <span style="color: blue">Permissive 라이선스와 Copyleft 라이선스로 구분</span>할 수 있습니다.
+####  특히 Server Side Public License는 서비스코드를 실행하는 데에 필요한 모든 소스코드를 공개해야 한다고 되어 있습니다. 
 <br>
 
-####  Creative Commons License 중에서 NC(NonCommercial) 라이선스는 상업적 이용이 금지되어 있으므로 회사에서 사용할 수 없습니다.
-<br>
-
-####  무료로 제공되는 폰트라도 라이선스가 있기 때문에 사용 가능한 조건을 확인하고 사용해야 합니다.
+####  따라서 Shared Source Software 형태의 라이선스가 적용된 경우에는 상업적 목적으로 클라우드 서비스를 할 수 없습니다.
 <br>
