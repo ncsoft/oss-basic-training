@@ -30,12 +30,17 @@
 <br><br>
 
 ##  License
-CC BY 4.0으로 공개합니다.<br>
-https://creativecommons.org/licenses/by/4.0/
+* 강의용 교안(ppt)과 스크립트(docx)는 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)으로 공개합니다.<br> 
+* 강의용 교안에 포함되어 있는 교육 음성(wav)은 [CC BY-ND 2.0](https://creativecommons.org/licenses/by-nd/2.0/)으로 공개합니다. CC BY-ND 2.0에 따라 음성 파일을 변경할 수 없습니다. 
+<br><br>
+
+## Special Thanks to
+* 본 교육에 쓰인 AI 보이스는 NCSOFT의 Speech AI Lab에서 개발한 TTS 기술을 사용하였으며, 해당 기술을 제공해 준 NCSOFT의 Speech AI Lab 분들께 감사 드립니다.
 <br><br>
 
 ##  Remarks
-본 자료는 법적 효력이 없으므로 법적 분쟁 시 법률적 해석 또는 근거로 활용할 수 없습니다.
+* 본 자료는 법적 효력이 없으므로 법적 분쟁 시 법률적 해석 또는 근거로 활용할 수 없습니다.
+* 본 자료에 포함된 음성(wav)은 오픈소스 교육 목적으로만 사용해야 합니다.
 <br><br>
 
 ##  Reference
