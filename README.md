@@ -27,6 +27,11 @@
 |&nbsp;| | |
 <br>
 
+  ## 강의를 위한 문서
+  *  [강의용 교안(PPT)](https://github.com/ncsoft/oss-basic-training/tree/master/source)
+  *  [강의용 스크립트(DOC)](https://github.com/ncsoft/oss-basic-training/tree/master/source)
+<br>
+
 ##  Font
 * 강의 교안 작성 시 사용한 폰트는 프린텐다드(Pretendard)입니다. <br>
 * [프리텐다드 글꼴](https://cactus.tistory.com/306)
@@ -84,8 +89,4 @@
    *  [Summary](https://github.com/ncsoft/oss-basic-training/blob/master/docs/Chapter2-6.md)
   <br>
 
-  ## 강의를 위한 문서
-  *  [강의용 교안(PPT)](https://github.com/ncsoft/oss-basic-training/tree/master/source)
-  *  [강의용 스크립트(DOC)](https://github.com/ncsoft/oss-basic-training/tree/master/source)
-<br>
 
