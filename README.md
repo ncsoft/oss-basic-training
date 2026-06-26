@@ -33,7 +33,7 @@
 <br>
 
 ##  Font
-* 강의 교안 작성 시 사용한 폰트는 프린텐다드(Pretendard)입니다. <br>
+* 강의 교안 작성 시 사용한 폰트는 프리텐다드(Pretendard)입니다. <br>
 * [프리텐다드 글꼴](https://cactus.tistory.com/306)
 <br><br>
 
