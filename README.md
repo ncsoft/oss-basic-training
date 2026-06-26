@@ -1,7 +1,10 @@
 
 #  oss-basic-training: Open Source Training Slides
 ##  About
-오픈소스 라이선스에 대한 개념, 오픈소스 컴플라이언스 절차, 코드 작성 시 주의해야 할 점 등에 대해 누구나 개발자 대상으로 교육을 할 수 있도록 강의 교안(PPT)과 강의 스크립트(DOC)를 제작하여 공개하였습니다. 교육 자료에 대한 수정과 보완은 github md 문서를 이용하여 누구나 참여할 수 있습니다.
+* 오픈소스 라이선스에 대한 개념, 오픈소스 컴플라이언스 절차, 코드 작성 시 주의해야 할 점 등에 대해 누구나 개발자 대상으로 교육을 할 수 있도록 강의 교안(PPT)과 강의 스크립트(DOC)를 제작하여 공개하였습니다. 
+* Source 디렉토리에 있는 PPT 파일을 다운로드해서 슬라이드쇼로 실행하면 VARCO Voice로 녹음한 음성이 재생되며 남성(정성준) 목소리와 여성(효정) 목소리를 지원합니다. 
+* PPT 파일은 업로드 용량 관계로 3분할 되어 있습니다.
+* 교육 자료에 대한 수정과 보완은 github md 문서를 이용하여 누구나 참여할 수 있습니다.
 <p align="center">
 <img src="./image/cover.png" width="800">
 </p>
@@ -10,9 +13,8 @@
 
 |Name|Company|Email|
 |:--:|:--:|:--:|
-|PeterHanJiho|NCSOFT|yulica37@ncsoft.com|
-|DasomHan|NCSOFT|dasom12@ncsoft.com|
-|DaeunKim|NCSOFT|dekim@ncsoft.com|
+|PeterHanJiho|NC|yulica37@ncsoft.com|
+|&nbsp;| | |
 <br>
 
 ##  Contributor(s)
@@ -20,13 +22,14 @@
 |Name|Company|Email|
 |:--:|:--:|:--:|
 |Haksung Jang|SK Telecom|haksung@sk.com|
-|&nbsp;| | |
+|Minsun Kim|NC|pushthesun.m@gmail.com|
+|Dongyoon Hyun|NC|eclipse8031@gmail.com|
 |&nbsp;| | |
 <br>
 
 ##  Font
-강의 교안 작성 시 사용한 폰트는 나눔스퀘어 BOLD와 나눔스퀘어입니다. <br>
-[네이버 나눔글꼴](https://hangeul.naver.com/2017/nanum)
+* 강의 교안 작성 시 사용한 폰트는 프린텐다드(Pretendard)입니다. <br>
+* [프리텐다드 글꼴](https://cactus.tistory.com/306)
 <br><br>
 
 ##  License
@@ -35,7 +38,8 @@
 <br><br>
 
 ## Special Thanks to
-* 본 교육에 쓰인 AI 보이스는 NCSOFT의 Speech AI Lab에서 개발한 TTS 기술을 사용하였으며, 해당 기술을 제공해 준 NCSOFT의 Speech AI Lab 분들께 감사 드립니다.
+* 본 교육에 쓰인 AI 보이스는 NC AI의 VARCO Voice를 사용하였습니다. 해당 기술을 제공해 준 NC AI 개발자 분들께 감사 드립니다.
+* URL: https://voice.varco.ai/
 <br><br>
 
 ##  Remarks
@@ -45,17 +49,17 @@
 
 ##  Reference
 * [네이버 오픈소스 가이드](https://naver.github.io/OpenSourceGuide/book/)
-* [SK Telecom 오픈소스 가이드](https://sktelecom.github.io/oss-guide/)
-* [오픈소스를 사용하고, 준비하는 개발자를 위한 가이드 - Kakao](https://www.slideshare.net/ifkakao/ss-113145564)
-* [공개SW 라이선스 가이드 – 정보통신산업진흥원](https://www.oss.kr/oss_license_qna/show/b01c36a4-d50a-47cb-af60-78b94b93378b)
-* [기업 공개SW 거버넌스 Openchain 2.0 해설 - 정보통신산업진흥원](https://www.oss.kr/oss_guide/show/7050bff0-d06b-43f0-99a6-9975afcd486f?page=2)
-* [오픈소스 라이선스 변화의 흐름 - KaKao](https://tech.kakao.com/2021/09/08/opensource-license/)
+* [SK Telecom 오픈소스 가이드](https://sktelecom.github.io/guide/)
+* [오픈소스를 사용하고, 준비하는 개발자를 위한 가이드 - Kakao](https://www.slideshare.net/slideshow/ss-113145564/113145564)
+* [2025년 오픈소스SW 라이선스 가이드 개정판](https://www.oss.kr/pages/12/4245?page=1&pageSize=10&searchKeyword=&searchType=)
+* [한글해설서: 24년 ISO/IEC 5230(오픈체인) 한국저작권위원회 해설서 관리자](https://www.kossa.kr/xe/file/2020875)
+* [오픈소스 라이선스 변화의 흐름 - KaKao](https://tech.kakao.com/posts/456)
 <br>
 
 ##  About OpenChain Korea Work Group
 [![](./image/logo_kwg.png)](https://openchain-project.github.io/OpenChain-KWG/)
 
-* OSS Basic Training : https://openchain-project.github.io/OpenChain-KWG/blog/2020/11/23/oss-basic-training-slide/
+* OSS Basic Training : https://openchain-project.github.io/OpenChain-KWG/resource/external/
 <br>
 
 ##  기여를 위한 문서

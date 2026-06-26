@@ -5,8 +5,7 @@
 |Name|Company|Email|
 |:--:|:--:|:--:|
 |PeterHanJiho|NCSOFT|yulica37@ncsoft.com|
-|DasomHan|NCSOFT|dasom12@ncsoft.com|
-|Daeunkim|NCSOFT|dekim@ncsoft.com|
+|&nbsp;| | |
 <br>
   
 ##   Contributor(s)

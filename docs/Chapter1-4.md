@@ -7,25 +7,24 @@ Chapter 1. 저작권과 오픈소스 라이선스
 ###  오픈소스 라이선스는 약 <span style="color: blue">2,500개</span> 정도 있다고 합니다.
 <br>
 
-###  그 중에서 상위 10개의 라이선스가 전체의 93%를 차지하고 있습니다.
-|순위|라이선스 명|2018년|2019년|리스크|
+###  그 중에서 상위 10개의 라이선스가 대부분을 차지하고 있습니다.
+|순위|라이선스 명|2018년|2025년|리스크|
 |:--:|:--:|:--:|:--:|:--:|
 |1|MIT License|38%|32%|Low|
-|2|GNU General Public License v2.0 (GPL 2.0)|14%|18%|<span style="color: orange">High</span>|
-|3|Apache License 2.0|13%|14%|Low|
-|4|GNU General Public License v3.0 (GPL 3.0)|6%|7%|<span style="color: orange">High</span>|
-|5|BSD 3-Clause License (BSD 3-clause “New” or ”Revised” License)|5%|6%|Low|
-|6|Internet Systems Consortium License (ISC License)|6%|5%|Medium|
-|7|Artistic License|3%|4%|Medium|
-|8|GNU Library or Lesser General Public License v2.1 (LGPL 2.1)|3%|4%|<span style="color: orange">High</span>|
-|9|GNU Library or Lesser General Public License v3.0 (LGPL 3.0)|1%|2%|<span style="color: orange">High</span>|
-|10|Eclipse Public License (EPL)|1%|1%|Medium|
-|기타|GNU Affero General Public License (AGPL)|1% 미만|1% 미만|<span style="color: orange">Very High</span>|
+|2|Apache License 2.0|13%|23%|Low|
+|3|GNU General Public License v3.0 (GPL 3.0)|6%|9%|<span style="color: orange">High</span>|
+|4|GNU General Public License v2.0 (GPL 2.0)|14%|7%|<span style="color: orange">High</span>|
+|5|BSD 3-Clause License (BSD 3-clause “New” or ”Revised” License)|5%|4%|Low|
+|6|Internet Systems Consortium License (ISC License)|6%|2%|Low|
+|7|GNU Library or Lesser General Public License v2.1 (LGPL 2.1)|3%|2%|<span style="color: orange">High</span>|
+|8|BSD 2-Clause|1% 미만|1.5%|Low|
+|9|GNU General Public License v3.0 (GPL 3.0)|1%|1%|<span style="color: orange">High</span>|
+|10|Eclipse Public License (EPL)|1%|1% 미만|Medium|
 <br>
 
 ###  오픈소스 라이선스는 소스코드 공개의무 강도에 따라 크게 Permissive 라이선스와 Copyleft 라이선스로 구분할 수 있습니다.
-*  Permissive 라이선스: Easy Mode
-*  Copyleft 라이선스: Hard Mode
+*  Permissive 라이선스: 공개의무 강도 약함
+*  Copyleft 라이선스: 공개의무 강도 강함
 <br>
 
 ###  Permissive 라이선스는 의무사항이 많지 않아서 상대적으로 준수하기가 쉬운 라이선스입니다. <span style="color: blue">일반적으로 저작권 표시, 라이선스 고지 등의 고지 의무만 준수하면 됩니다.</span>
@@ -55,7 +54,6 @@ Chapter 1. 저작권과 오픈소스 라이선스
 
 ###  Copyleft 라이선스에 따라서는 <span style="color: blue">사용자가 만든 파생저작물의 소스코드도 함께 배포할 것을 요구</span>하기도 합니다.
 *  내가 공유한 소스를 이용해서 다른 프로그램을 만들면 너도 그 프로그램의 소스를 공유해야 해.
-*  그..래.. 알겠어...
 <br>
 
 ###  GPL 라이선스의 오픈소스는 해당 바이너리 전체의 모든 소스코드를 공개해야 하는 의무가 있습니다.
