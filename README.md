@@ -85,7 +85,7 @@
   <br>
 
   ## 강의를 위한 문서
-  *  [강의용 교안(PPT)](https://github.com/ncsoft/oss-basic-training/blob/master/source/oss-training-materials.pptx)
-  *  [강의용 스크립트(DOC)](https://github.com/ncsoft/oss-basic-training/blob/master/source/oss-training-scripts.docx)
+  *  [강의용 교안(PPT)](https://github.com/ncsoft/oss-basic-training/tree/master/source)
+  *  [강의용 스크립트(DOC)](https://github.com/ncsoft/oss-basic-training/tree/master/source)
 <br>
 
